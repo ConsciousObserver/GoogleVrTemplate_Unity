@@ -1,0 +1,1 @@
+GoogleVr template Unity project for Android with **GoogleVR version 1.6**
